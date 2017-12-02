@@ -1,3 +1,6 @@
+.. image:: https://bugs.python.org/@@file/favicon.ico
+   :width: 30 px
+   
 PyFortify
 =====
 
