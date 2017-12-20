@@ -1,9 +1,17 @@
-.. image:: https://bugs.python.org/@@file/favicon.ico
-   :width: 30 px
-   
 PyFortify
 =====
 
+|forthebadge made-with-python|
+
+.. |forthebadge made-with-python| image:: http://ForTheBadge.com/images/badges/made-with-python.svg
+   :target: https://www.python.org/
+
+|Maintenance yes|
+
+.. |Maintenance yes| image:: https://img.shields.io/badge/Maintained%3F-yes-green.svg
+   :target: https://GitHub.com/vjex/pyfortify/graphs/commit-activity 
+   
+ 
 A Python interface for the Fortify API.
 
 The goal of this library is to map Fortify endpoints one-to-one. Calls to Fortify are made with clean, Pythonic methods. 
@@ -497,3 +505,22 @@ To fetch a particular alert defination:
 .. code-block:: bash
 
     >>> FClient.variables() 
+
+
+Contributors
+============
+
+
+|GitHub contributors|
+
+.. |GitHub contributors| image:: https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg
+   :target: https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/
+   
+   
+Licence
+=======
+
+|MIT license|
+
+.. |MIT license| image:: https://img.shields.io/badge/License-MIT-blue.svg
+   :target: https://lbesson.mit-license.org/
